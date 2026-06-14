@@ -67,7 +67,7 @@ Your Computer  →  [Packet]  →  Internet
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PRODIGY_CS_05.git
+git clone https://github.com/Prasadsarkate/PRODIGY_CS_05.git
 
 # Navigate to folder
 cd PRODIGY_CS_05
